@@ -13,18 +13,19 @@ How to include: [![](https://jitpack.io/v/fah33mk/impart.svg)](https://jitpack.i
 
 Project Level build.gradle:
 
-allprojects {
+      allprojects {
 
 	repositories {
   
-	maven { url 'https://jitpack.io' }
+	      maven { url 'https://jitpack.io' }
   
 	}
   
-}
+     }
 
 app level build.gradle :
-dependencies {
-	implementation 'com.github.fah33mk:impart:v0.1'
-}
+       
+       dependencies {
+	      implementation 'com.github.fah33mk:impart:v0.1'
+       }
   

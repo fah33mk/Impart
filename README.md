@@ -45,4 +45,5 @@ app level build.gradle :
 		}
   
 
-Appricite Or Criticize: https://www.linkedin.com/in/fah33mk/
+If you want to appreciate or criticize 
+Add me on: https://www.linkedin.com/in/fah33mk/

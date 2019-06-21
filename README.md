@@ -41,7 +41,7 @@ Project Level build.gradle:
 app level build.gradle :
        
 		dependencies {
-			implementation 'com.github.fah33mk:impart:v0.1'
+			implementation 'com.github.fah33mk:impart:1.0-beta'
 		}
   
 
